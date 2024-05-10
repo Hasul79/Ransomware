@@ -1,4 +1,4 @@
-<h1 align="center" >Ransomware</h1>
+<h1 align="center" >R a n s o m w a r e</h1>
 
 
 <div align="center">
