@@ -37,7 +37,7 @@ This malware installs itself onto a device and encrypts a victim’s data, block
 ![Screenshot 2024-05-10 183807](https://github.com/Hasul79/Ransomware/assets/95657084/db77e881-e634-44ea-93e1-f7787ae2dfee)
 
 
-<p>I run the Encription.py file and connect to Port:12345 and Host:target IP</p>
+<p>I run the Encription.py file and connect to Port = "12345" and Host = "target IP" </p>
 
 ![Screenshot 2024-05-10 191025](https://github.com/Hasul79/Ransomware/assets/95657084/7d530a6f-c51c-45af-8614-0f0909a7e837)
 
