@@ -15,13 +15,14 @@ This malware installs itself onto a device and encrypts a victim’s data, block
 <p>I created a file, wrote a note in it, for example</p>
 
 
-![Screenshot 2024-05-10 145502](https://github.com/Hasul79/Ransomware/assets/95657084/14ea817a-84bc-447b-b325-e7e7211e5692)
+![Screenshot 2024-05-10 165433](https://github.com/Hasul79/Ransomware/assets/95657084/81357360-87a5-4551-af8b-96ad67d1c9e3)
 
 
 <p>I created a controller.py file and specified the Host = "Target IP" and Port = 12345,  that the target should connect to</p>
 
 
-![Screenshot 2024-05-10 145502](https://github.com/Hasul79/Ransomware/assets/95657084/8b3e6948-0f73-4196-abd1-e26686e7302d)
+![Screenshot 2024-05-10 145502](https://github.com/Hasul79/Ransomware/assets/95657084/14ea817a-84bc-447b-b325-e7e7211e5692)
+
 
 
 <p>And run this code</p>
