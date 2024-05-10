@@ -18,7 +18,7 @@ This malware installs itself onto a device and encrypts a victim’s data, block
 ![Screenshot 2024-05-10 165433](https://github.com/Hasul79/Ransomware/assets/95657084/4b19d6db-4c19-4f6d-a4bb-b0d15c987bbb)
 
 
-<p>I created a controller.py file and specified the Host = "Target IP" and Port = 12345,  that the target should connect to</p>
+<p>I created a controller.py file and specified the Host = "0․0․0․0 - all addresses" and Port = 12345,  that the target should connect to</p>
 
 
 ![Screenshot 2024-05-10 145502](https://github.com/Hasul79/Ransomware/assets/95657084/14ea817a-84bc-447b-b325-e7e7211e5692)
