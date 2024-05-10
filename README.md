@@ -65,12 +65,11 @@ This malware installs itself onto a device and encrypts a victim’s data, block
 
 ![Screenshot 2024-05-10 165433](https://github.com/Hasul79/Ransomware/assets/95657084/87ac66a6-6c0a-49cf-8395-18cc400a25b7)
 
+<p>Result when checking with VirusTotal" </p>
+
+![Screenshot 2024-05-11 000925](https://github.com/Hasul79/Ransomware/assets/95657084/779bc422-7709-4196-8c32-3292211ad488)
 
 <h3>Thank you</h3>
-
-
-
-
 
 # Authon: Hasmik Minasyan
 
