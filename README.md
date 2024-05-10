@@ -54,7 +54,7 @@ This malware installs itself onto a device and encrypts a victim’s data, block
 
 
 
-
+<br/>
 
 ![Screenshot 2024-05-10 165433](https://github.com/Hasul79/Ransomware/assets/95657084/87ac66a6-6c0a-49cf-8395-18cc400a25b7)
 
@@ -62,6 +62,7 @@ This malware installs itself onto a device and encrypts a victim’s data, block
 <h3>Thank you</h3>
 
 
+![Screenshot 2024-05-10 173612](https://github.com/Hasul79/Ransomware/assets/95657084/93e2f817-9ae8-4a9e-bd26-98860a823470)
 
 
 # Authon: Hasmik Minasyan
