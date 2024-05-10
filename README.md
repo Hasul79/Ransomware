@@ -1,6 +1,7 @@
-<h1 style="font-size=40">
+<h1 style="text-align: center; font-size: 40px;">
   Ransomware
-</h1> 
+</h1>
+
 
 <div align="center">
 
