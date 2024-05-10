@@ -34,7 +34,7 @@ This malware installs itself onto a device and encrypts a victim’s data, block
 
 
 
-![Screenshot 2024-05-10 170041](https://github.com/Hasul79/Ransomware/assets/95657084/8f74dec1-23ba-45aa-9fb6-91c8301e64f1)
+
 
 
 
