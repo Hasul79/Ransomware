@@ -48,7 +48,10 @@ This malware installs itself onto a device and encrypts a victim’s data, block
 
 ![Screenshot 2024-05-10 165433](https://github.com/Hasul79/Ransomware/assets/95657084/25fa1aec-47cb-468d-bc84-ebbf617be7ec)
 
+<h3>Thank you</h3>
 
+
+# Authon: Hasmik Minasyan
 
 
 
