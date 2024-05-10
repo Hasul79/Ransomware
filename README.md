@@ -1,5 +1,12 @@
 <h1 align="center" >R a n s o m w a r e</h1>
 
+```
+git clone https://github.com/Hasul79/Ransomware.git
+cd Ransomware
+pip install requirements.txt
+
+```
+
 
 <div align="center">
 
