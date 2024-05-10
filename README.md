@@ -38,11 +38,11 @@ This malware installs itself onto a device and encrypts a victim’s data, block
 
 ![Screenshot 2024-05-10 165826](https://github.com/Hasul79/Ransomware/assets/95657084/ed325960-9bcd-44d1-9ff7-3069df8d44ff)
 
+<p>and the contents of the file will be encrypted</p>
+
+![Screenshot 2024-05-10 165929](https://github.com/Hasul79/Ransomware/assets/95657084/6410af9c-4ff2-4104-98ca-bfedbbc4733a)
 
 
-
-
-![Screenshot 2024-05-10 165929](https://github.com/Hasul79/Ransomware/assets/95657084/7e4ad6b0-abe5-4e92-8ffc-cc384bd2063d)
 
 
 
