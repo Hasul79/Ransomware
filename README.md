@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 40px;">
+<h1 align="center" style="font-size: 70px;">
   Ransomware
 </h1>
 
