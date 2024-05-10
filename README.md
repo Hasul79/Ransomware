@@ -46,12 +46,14 @@ This malware installs itself onto a device and encrypts a victim’s data, block
 
 <p>After payment, then we will do the reverse operation</p>
 
+![Screenshot 2024-05-10 170621](https://github.com/Hasul79/Ransomware/assets/95657084/d20ed733-6691-490a-ac2a-dff6a6737939)
+
+</br>
 
 ![Screenshot 2024-05-10 194323](https://github.com/Hasul79/Ransomware/assets/95657084/3eb07d97-16c0-4707-b6d2-55ee923f1461)
 
 <br/>
 
-![Screenshot 2024-05-10 170621](https://github.com/Hasul79/Ransomware/assets/95657084/d20ed733-6691-490a-ac2a-dff6a6737939)
 
 
 <h3>Thank you</h3>
