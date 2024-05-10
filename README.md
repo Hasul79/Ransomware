@@ -36,13 +36,13 @@ This malware installs itself onto a device and encrypts a victim’s data, block
 
 <p>I run the Encription.py file and connect </p>
 
-![Screenshot 2024-05-10 165826](https://github.com/Hasul79/Ransomware/assets/95657084/ed325960-9bcd-44d1-9ff7-3069df8d44ff)
+![Screenshot 2024-05-10 170004](https://github.com/Hasul79/Ransomware/assets/95657084/3ca21bf4-407c-49c0-a5b0-3844e4f270ba)
 
 <p>and the contents of the file will be encrypted</p>
 
+![Screenshot 2024-05-10 165826](https://github.com/Hasul79/Ransomware/assets/95657084/ed325960-9bcd-44d1-9ff7-3069df8d44ff)
 
 
-![Screenshot 2024-05-10 170004](https://github.com/Hasul79/Ransomware/assets/95657084/3ca21bf4-407c-49c0-a5b0-3844e4f270ba)
 
 <p>After payment, then we will do the reverse operation</p>
 
